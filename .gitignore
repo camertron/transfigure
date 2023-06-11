@@ -1,0 +1,7 @@
+Gemfile.lock
+.DS_Store
+.vscode
+pkg/
+tmp/
+lib/transfigure/*.bundle
+lib/transfigure/*.so
